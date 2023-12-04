@@ -17,3 +17,7 @@ h1{
 span{
     color: #4ea0ff;
 }
+
+figcaption{
+    font-size: small;
+}
