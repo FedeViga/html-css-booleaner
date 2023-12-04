@@ -56,3 +56,26 @@ thead{
 .second_column{
     width: 25%;
 }
+
+h2{
+    color: gray;
+    font-size: 20px;
+}
+
+.img_correlata{
+    display: block;
+    margin-bottom: 20px;
+}
+
+.container{
+    position: relative;
+}
+
+.img_description{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: white;
+    font-size: 20px;
+}
+
