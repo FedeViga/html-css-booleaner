@@ -25,3 +25,34 @@ figcaption{
 .testo_evidenziato{
     background-color: yellow;
 }
+
+table{
+    text-align: left;
+    background-color: #b1e5f2;
+    border-spacing: 0px;
+}
+
+tr{
+    height: 50px;
+}
+
+thead{
+    color: white;
+    background-color: #4ea0ff;
+}
+
+#first_row{
+    height: fit-content;
+}
+
+#second_row{
+    background-color: white;
+}
+
+.first_column{
+    width: 25%;
+}
+
+.second_column{
+    width: 25%;
+}
