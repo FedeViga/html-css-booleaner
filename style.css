@@ -1,11 +1,17 @@
 #logo{
+    position: absolute;
     width: 10%;
+    bottom: 10px;
+    left: 10px;
+
 }
 
 header{
+    position: relative;
     background-image: url(img/pattern.png);
     background-color: #4ea0ff;
     height: 100px;
+    background-size: contain;
 }
 
 h1{
