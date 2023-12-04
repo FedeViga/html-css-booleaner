@@ -14,10 +14,14 @@ h1{
     margin-left: 0px;
 }
 
-span{
+.booleaner{
     color: #4ea0ff;
 }
 
 figcaption{
     font-size: small;
+}
+
+.testo_evidenziato{
+    background-color: yellow;
 }
