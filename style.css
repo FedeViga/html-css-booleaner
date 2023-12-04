@@ -5,4 +5,15 @@
 header{
     background-image: url(img/pattern.png);
     background-color: #4ea0ff;
+    height: 100px;
+}
+
+h1{
+    font-size: 35px;
+    margin: 10px;
+    margin-left: 0px;
+}
+
+span{
+    color: #4ea0ff;
 }
