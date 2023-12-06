@@ -1,0 +1,104 @@
+#logo{
+    position: absolute;
+    width: 10%;
+    bottom: 10px;
+    left: 10px;
+
+}
+
+header{
+    position: relative;
+    background-image: url(../img/pattern.png);
+    background-color: #4ea0ff;
+    height: 100px;
+    background-size: contain;
+}
+
+.main-container {
+    width: 70%;
+    margin: auto;
+}
+
+h1{
+    font-size: 35px;
+    margin: 10px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+
+.author{
+    color: gray;
+}
+
+.time{
+    font-size: 10px;
+    color: gray;
+    margin-bottom: 15px;
+}
+
+
+.booleaner{
+    color: #4ea0ff;
+}
+
+figcaption{
+    font-size: small;
+}
+
+.testo_evidenziato{
+    background-color: yellow;
+}
+
+table{
+    text-align: left;
+    background-color: #b1e5f2;
+    border-spacing: 0px;
+}
+
+tr{
+    height: 50px;
+}
+
+thead{
+    color: white;
+    background-color: #4ea0ff;
+}
+
+#first_row{
+    height: fit-content;
+}
+
+#second_row{
+    background-color: white;
+}
+
+.first_column{
+    width: 25%;
+}
+
+.second_column{
+    width: 25%;
+}
+
+h2{
+    color: gray;
+    font-size: 20px;
+}
+
+.img_correlata{
+    display: block;
+    margin-bottom: 20px;
+}
+
+.container{
+    position: relative;
+}
+
+.img_description{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: white;
+    font-size: 20px;
+}
+
